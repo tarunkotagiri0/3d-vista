@@ -1,0 +1,73 @@
+#: locale=en
+
+## E-Learning
+
+### Answer
+questionOption_5ABBA8D7_7476_846C_41DC_7AED6B7F1C6D.text = Explore
+questionOption_45968007_7475_83EC_41D9_1A258D793D35.text = Get inside
+
+### Question
+question_45E4CBCA_7475_8464_41CE_AFA6B5A74797.title = How would you like to proceed?
+
+### Question Screen
+quizQuestion_6C322D70_746D_7C24_41D4_7E5443882CB0.ok = OK
+
+### Report Screen
+quizScore_6C320D71_746D_7C24_41D3_4F14606EB1DA.title = - SCORE -
+quizScore_6C320D71_746D_7C24_41D3_4F14606EB1DA.completion = Completed
+quizScore_6C320D71_746D_7C24_41D3_4F14606EB1DA.questionsCorrect = Correct
+quizScore_6C320D71_746D_7C24_41D3_4F14606EB1DA.downloadCSV = Download .csv
+quizScore_6C320D71_746D_7C24_41D3_4F14606EB1DA.questionsIncorrect = Incorrect
+quizScore_6C320D71_746D_7C24_41D3_4F14606EB1DA.items = Items Found
+quizScore_6C320D71_746D_7C24_41D3_4F14606EB1DA.questions = Questions
+quizScore_6C320D71_746D_7C24_41D3_4F14606EB1DA.repeat = Repeat
+quizScore_6C320D71_746D_7C24_41D3_4F14606EB1DA.submitToLMS = Submit
+quizScore_6C320D71_746D_7C24_41D3_4F14606EB1DA.elapsedTime = Time
+
+### Score Name
+score1.label = Score 1
+score2.label = info score
+
+### Timeout Screen
+quizTimeout_6C323D70_746D_7C24_41B1_0E051F6E6D38.title = - TIMEOUT -
+quizTimeout_6C323D70_746D_7C24_41B1_0E051F6E6D38.repeat = Repeat
+quizTimeout_6C323D70_746D_7C24_41B1_0E051F6E6D38.score = View Score
+
+## Media
+
+### Title
+video_5AE6017D_7592_841C_41D4_23508C8B724E.label = First look at the proposed model for Ram Mandir
+panorama_6DC3AE91_746E_9CE4_41D7_469E441F87A9.label = arena
+panorama_635E33DB_746E_8464_41B4_93F0FD356ED1.label = corridor
+photo_5FA62F68_7595_9C24_41CF_DAB6A9D4CA9C.label = elephant
+panorama_635F5663_746E_8C24_41D7_464AECE81933.label = rammandir
+
+### Video
+videolevel_4FC84191_74AD_84E4_41BF_1686019FA6F7.url = media/video_5AE6017D_7592_841C_41D4_23508C8B724E_en.mp4
+videolevel_4FC84191_74AD_84E4_41BF_1686019FA6F7.posterURL = media/video_5AE6017D_7592_841C_41D4_23508C8B724E_poster_en.jpg
+
+### Video Subtitles
+
+## Popup
+
+### Body
+htmlText_5F52204A_7593_8464_41CB_50FB40F0186B.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">At the entrance of Ram Mandir, devotees are greeted with large elephants.</SPAN></DIV></BODY></HTML></div>
+
+## Skin
+
+### Multiline Text
+HTMLText_573A1158_7592_8464_41B0_E0A147F3CAE8.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:53px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:53px;"><B>Welcome</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:53px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:53px;"><B>To</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:53px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:53px;"><B>RAM MANDIR</B></SPAN></SPAN></DIV></div>
+HTMLText_5F685FAB_75F6_9C24_41CD_25D7822C2903.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:21px;"><B>Hidden Items</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:17px;"><B>{{quiz.media.items.found}} / {{quiz.media.item.count}}</B></SPAN></SPAN></DIV></div>
+HTMLText_4033A4A0_74B2_8C24_41D6_C6827A332B38.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:21px;"><B>Info Score</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:21px;"><B>{{quiz.score2.score}} / {{quiz.score2.score.total}}</B></SPAN></SPAN></DIV></div>
+HTMLText_59221E83_75F2_9CE4_4174_6F9BD21632AA.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:21px;"><B>Scene Score</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;">{{quiz.media.score}} / {{quiz.media.score.total}}</SPAN></SPAN></DIV></div>
+HTMLText_5FC5F5AE_75FF_8C3C_41AD_D23A89D340A7.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:21px;"><B>Time</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:17px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;">{{quiz.time.remaining}}</SPAN></SPAN></DIV></div>
+HTMLText_5931463D_75FD_8C1C_41D1_8640A483416E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:21px;"><B>Total Score</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;">{{quiz.score}} / {{quiz.score.total}}</SPAN></SPAN></DIV></div>
+HTMLText_5B49AC8A_75F6_BCE4_41D2_3DEBF6804C7D.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:21px;"><B>{{quiz.media.index}} / {{quiz.media.count}}</B></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+tour.description = 
+
+### Title
+tour.name = ram mandir
